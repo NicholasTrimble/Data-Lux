@@ -1,4 +1,4 @@
- import sqlite3
+import sqlite3
 #
 # connection = sqlite3.connect("database/data_lux.db")
 # cursor = connection.cursor()
