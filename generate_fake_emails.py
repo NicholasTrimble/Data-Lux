@@ -4,7 +4,7 @@ import os
 
 
 output_directory = "data"
-output_filename = "fake_emails.csv.csv"
+output_filename = "fake_emails.csv"
 number_of_emails = 1000
 random_seed = 1234
 
@@ -34,9 +34,9 @@ with open(output_file_path, 'w', newline='') as csvfile:
 
     for i in range(number_of_emails):
         row = {
-            "sender": fake_gen.email(),
-            "subject": make_fake_subject(),
-            "body": make_fake_body(),
+            "sender": fake_gen.safe_email(),
+            "subject": make_fake_subject(fake_gen),
+            "body": make_fake_body(fake_gen),
             "date": fake_gen.date()
         }
         writer.writerow(row)
