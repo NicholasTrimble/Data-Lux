@@ -1,0 +1,16 @@
+sender,subject,body,date
+alice@example.com,Feedback on product,Great product! Really loved it.,2025-10-27
+bob@example.com,Complaint,The app crashes frequently when I try to upload a file.,2025-10-26
+carol@example.com,Suggestion,It would be nice to have dark mode in the app.,2025-10-25
+david@example.com,Feedback,Loved the new dashboard design, very intuitive.,2025-10-24
+emma@example.com,Complaint,Payment gateway failed during checkout.,2025-10-23
+frank@example.com,Suggestion,Can you add an export to CSV feature?,2025-10-22
+grace@example.com,Feedback,Customer service was very helpful.,2025-10-21
+henry@example.com,Complaint,App crashes when opening settings.,2025-10-20
+irene@example.com,Suggestion,Add push notifications for updates.,2025-10-19
+jack@example.com,Feedback,Love the recent update with performance improvements.,2025-10-18
+kate@example.com,Complaint,Emails from the system are sometimes delayed.,2025-10-17
+louis@example.com,Suggestion,Include a tutorial for new users.,2025-10-16
+maria@example.com,Feedback,The interface is very clean and easy to use.,2025-10-15
+nathan@example.com,Complaint,Login sometimes fails with 500 server error.,2025-10-14
+olivia@example.com,Suggestion,Provide an option to customize themes.,2025-10-13
