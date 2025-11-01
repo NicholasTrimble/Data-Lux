@@ -1,7 +1,7 @@
 import csv
 import sqlite3
 import os
-import pandas as pd
+
 
 
 #pathing
