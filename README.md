@@ -1,3 +1,6 @@
+![Dashboard](DataLux.png)
+
+
 DataLux a Smart Insight Assistant
 
 DataLux is AI powered.
